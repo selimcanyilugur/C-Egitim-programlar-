@@ -11,10 +11,10 @@ int main()
 	cout<<"ortalama : "<<ort<<endl;
 	if(ort<50)
 	{
-		cout<<"kaldınız.";
+		cout<<"kaldÃ½nÃ½z.";
 	}
 	else
 	{
-		cout<<"geçtiniz.";
+		cout<<"geÃ§tiniz.";
 	}
 }
